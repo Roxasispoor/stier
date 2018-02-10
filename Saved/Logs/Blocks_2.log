@@ -1,0 +1,1198 @@
+﻿Log file open, 02/10/18 16:55:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Blocks
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1906366400) SRandInit(-1906366400).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180346
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AirSim
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Binaries/Win64/UE4Editor-Blocks.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Binaries/Win64/UE4Editor-AirSim.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.10-15.55.46:350][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.10-15.55.46:350][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.10-15.55.46:467][  0]LogInit: Computer: DESKTOP-L0CSFJP
+[2018.02.10-15.55.46:467][  0]LogInit: User: Alex
+[2018.02.10-15.55.46:467][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.10-15.55.46:467][  0]LogInit: High frequency timer resolution =2.533204 MHz
+[2018.02.10-15.55.46:468][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.02.10-15.55.46:468][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.10-15.55.46:468][  0]LogMemory: Process Physical Memory: 273.70 MB used, 273.70 MB peak
+[2018.02.10-15.55.46:468][  0]LogMemory: Process Virtual Memory: 271.86 MB used, 271.86 MB peak
+[2018.02.10-15.55.46:468][  0]LogMemory: Physical Memory: 3176.67 MB used,  837.91 MB free, 4014.58 MB total
+[2018.02.10-15.55.46:468][  0]LogMemory: Virtual Memory: 679.93 MB used,  837.91 MB free, 134217728.00 MB total
+[2018.02.10-15.55.46:698][  0]LogInit: Using OS detected language (fr-FR).
+[2018.02.10-15.55.46:698][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.02.10-15.55.46:923][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.02.10-15.55.46:924][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.02.10-15.55.47:704][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.10-15.55.59:330][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.10-15.55.59:755][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.02.10-15.55.59:755][  0]LogD3D11RHI:       2020/0/2007 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.10-15.55.59:761][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.02.10-15.55.59:761][  0]LogD3D11RHI:       112/0/2007 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.10-15.55.59:763][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.10-15.55.59:763][  0]LogD3D11RHI:       0/0/2007 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.10-15.55.59:763][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.10-15.55.59:769][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.10-15.55.59:769][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.10-15.55.59:769][  0]LogWindows: EnumDisplayDevices:
+[2018.02.10-15.55.59:770][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.02.10-15.55.59:770][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.10-15.55.59:770][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.10-15.55.59:770][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.10-15.55.59:770][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.02.10-15.55.59:770][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.10-15.55.59:770][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.10-15.55.59:770][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.02.10-15.55.59:799][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.10-15.55.59:810][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.10-15.55.59:811][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Intermediate/Shaders/WorkingDirectory/8600/).
+[2018.02.10-15.55.59:811][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alex/AppData/Local/Temp/UnrealShaderWorkingDir/FF6970E342D023F7132872939F82D3B8/'.
+[2018.02.10-15.55.59:812][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.10-15.56.07:557][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.10-15.56.07:669][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.10-15.56.07:736][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.10-15.56.07:801][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.10-15.56.07:932][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.10-15.56.08:020][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.10-15.56.08:086][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.10-15.56.08:152][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.10-15.56.08:212][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.10-15.56.08:279][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.10-15.56.08:343][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.10-15.56.08:410][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.10-15.56.08:475][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.10-15.56.08:539][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.10-15.56.08:673][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.10-15.56.08:673][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.10-15.56.08:930][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.10-15.56.09:063][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.10-15.56.09:685][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.10-15.56.09:748][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.10-15.56.09:849][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.10-15.56.09:912][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.10-15.56.09:977][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.10-15.56.10:242][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.10-15.56.10:242][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.10-15.56.13:247][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.10-15.56.13:379][  0]LogDerivedDataCache: Loaded boot cache 0.13s 110MB C:/Users/Alex/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.10-15.56.13:379][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alex/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.10-15.56.13:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.10-15.56.13:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.10-15.56.13:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.10-15.56.13:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.10-15.56.13:396][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.10-15.56.13:461][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.10-15.56.13:471][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.10-15.56.13:471][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.10-15.56.13:687][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.10-15.56.13:687][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.10-15.56.35:064][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.10-15.56.36:254][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.10-15.56.36:418][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.10-15.56.36:418][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.10-15.56.36:418][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.10-15.56.36:418][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.10-15.56.36:418][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.10-15.56.36:467][  0]LogNetVersion: Blocks , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1559670006)
+[2018.02.10-15.56.36:694][  0]LogAssetRegistry: FAssetRegistry took 0.0556 seconds to start up
+[2018.02.10-15.56.37:736][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.202444 seconds
+[2018.02.10-15.56.37:747][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.10-15.56.37:747][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.10-15.56.37:747][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.10-15.56.37:950][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.10-15.58.01:274][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.10-15.58.01:432][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.10-15.58.03:891][  0]LogLinker: Warning: Asset '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/VehicleAdv/SUV/SuvCarPawn.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.10-15.58.03:900][  0]LogLinker: Warning: Asset '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/VehicleAdv/SUV/SuvBackTireData.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.10-15.58.03:902][  0]LogLinker: Warning: Asset '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/VehicleAdv/SUV/SuvFrontTireData.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.10-15.58.20:019][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.10-15.58.21:234][  0]SourceControl: Source control is disabled
+[2018.02.10-15.58.21:234][  0]SourceControl: Source control is disabled
+[2018.02.10-15.58.21:603][  0]SourceControl: Source control is disabled
+[2018.02.10-15.58.22:005][  0]SourceControl: Source control is disabled
+[2018.02.10-15.58.26:673][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.10-15.58.27:748][  0]LogOcInput: OculusInput pre-init called
+[2018.02.10-15.58.28:960][  0]LogEngine: Initializing Engine...
+[2018.02.10-15.58.28:963][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.10-15.58.29:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.10-15.58.29:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.10-15.58.30:051][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.10-15.58.30:094][  0]LogInit: XAudio2 using 'Haut-parleurs +SSE3 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.10-15.58.32:317][  0]LogInit: FAudioDevice initialized.
+[2018.02.10-15.58.36:677][  0]LogDerivedDataCache: Saved boot cache 4.36s 110MB C:/Users/Alex/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.10-15.58.37:008][  0]LogInit: Texture streaming: Enabled
+[2018.02.10-15.58.38:600][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.10-15.58.39:537][  0]LogInit: Transaction tracking system initialized
+[2018.02.10-15.58.40:516][  0]BlueprintLog: New page: Editor Load
+[2018.02.10-15.58.46:403][  0]LocalizationService: Localization service is disabled
+[2018.02.10-15.58.50:914][  0]LogConsoleResponse: Display: 
+[2018.02.10-15.58.53:335][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.10-15.58.53:335][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.10-15.58.53:335][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.10-15.58.54:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/' took 0.02s
+[2018.02.10-15.59.01:353][  0]SourceControl: Source control is disabled
+[2018.02.10-15.59.01:353][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/FlyingCPP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.10-15.59.01:355][  0]LightingResults: New page: Lighting Build
+[2018.02.10-15.59.01:473][  0]MapCheck: New page: Map Check
+[2018.02.10-15.59.01:473][  0]LightingResults: New page: Lighting Build
+[2018.02.10-15.59.01:746][  0]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.10-15.59.01:790][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.10-15.59.01:841][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.10-15.59.01:951][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.163ms to complete.
+[2018.02.10-15.59.01:951][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 0.598
+[2018.02.10-15.59.03:422][  0]LogCollectionManager: Loaded 0 collections in 0.001906 seconds
+[2018.02.10-15.59.03:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Collections/' took 0.01s
+[2018.02.10-15.59.03:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/Developers/Alex/Collections/' took 0.01s
+[2018.02.10-15.59.03:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/Collections/' took 0.01s
+[2018.02.10-15.59.03:622][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.10-15.59.03:631][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2378 classes and 525 folders.
+[2018.02.10-15.59.03:758][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2018.02.10-15.59.09:072][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0033 seconds. Added 0 classes and 0 folders.
+[2018.02.10-15.59.09:388][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0033 seconds. Added 1 classes and 2 folders.
+[2018.02.10-15.59.11:284][  0]LogSlate: Took 0.060425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.10-15.59.11:447][  0]LogSlate: Took 0.034113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.10-15.59.11:745][  0]LogSlate: Took 0.084123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.10-15.59.13:906][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.02.10-15.59.18:782][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0036 seconds. Added 1 classes and 2 folders.
+[2018.02.10-15.59.18:782][  0]LogLoad: (Engine Initialization) Total time: 216.81 seconds
+[2018.02.10-15.59.18:782][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.10-15.59.18:821][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.10-15.59.18:821][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.10-15.59.20:307][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.10-15.59.23:186][  1]LogSlate: Took 0.022220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.10-15.59.23:684][  3]LogAssetRegistry: Asset discovery search completed in 167.0123 seconds
+[2018.02.10-15.59.23:763][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.10-15.59.23:763][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.045298 seconds (updated 0 objects)
+[2018.02.10-16.00.10:646][ 64]MapCheck: New page: Map Check
+[2018.02.10-16.00.10:797][ 64]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.10-16.00.10:850][ 64]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.10-16.00.11:879][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.02.10-16.00.12:131][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.02.10-16.00.12:144][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GrayMaterial, compiling. 
+[2018.02.10-16.00.12:159][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.02.10-16.00.12:193][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Prop_Red_Plastic, compiling. 
+[2018.02.10-16.00.12:206][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Prop_White_Plastic, compiling. 
+[2018.02.10-16.00.12:219][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Material, compiling. 
+[2018.02.10-16.00.12:231][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Material_002, compiling. 
+[2018.02.10-16.00.12:244][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Material_004, compiling. 
+[2018.02.10-16.00.12:263][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.02.10-16.00.12:284][ 64]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Hex_Tile_Pulse, compiling. 
+[2018.02.10-16.00.19:110][ 64]TextureStreamingBuild: Display: Compiling optional shaders took 7.297 seconds.
+[2018.02.10-16.00.19:316][ 64]LogLevel: Display: Export Material TexCoord Scales took 0.206 seconds.
+[2018.02.10-16.00.19:500][ 64]TextureStreamingBuild: Display: Build Texture Streaming took 0.183 seconds.
+[2018.02.10-16.00.21:045][ 64]LightingResults: New page: Lighting Build - Feb 10, 2018, 6:00:19 PM
+[2018.02.10-16.00.28:227][ 64]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.10-16.00.31:123][ 64]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.10-16.00.36:226][ 64]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.10-16.00.40:838][ 64]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.02.10-16.00.41:434][ 64]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée 127.0.0.1:8008
+
+Server stack trace: 
+   à System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   à System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   à System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   à System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   à System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   à System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   à NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   à NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.02.10-16.00.48:311][ 64]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.10-16.00.48:311][ 64]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8600
+[2018.02.10-16.01.17:278][ 64]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.10-16.01.17:278][ 64]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.10-16.01.17:278][ 64]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.10-16.01.17:279][ 64]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.10-16.01.17:279][ 64]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.10-16.01.20:470][ 64]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.10-16.01.20:471][ 64]MapCheck: New page: FlyingExampleMap - Feb 10, 2018, 6:01:20 PM
+[2018.02.10-16.01.20:818][ 64]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.02.10-16.01.20:962][ 64]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 491.725ms to complete.
+[2018.02.10-16.01.20:985][ 64]LogEditorBuildUtils: Build time 1:10
+[2018.02.10-16.01.21:704][ 64]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.02.10-16.01.21:802][ 64]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.02.10-16.01.22:362][ 65]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer GrayMaterial, compiling. 
+[2018.02.10-16.01.22:368][ 65]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer GrayMaterial, compiling. 
+[2018.02.10-16.01.22:399][ 66]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.02.10-16.01.22:408][ 66]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.02.10-16.01.22:498][ 67]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.02.10-16.01.22:505][ 67]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.02.10-16.02.43:040][505]LogSlate: Took 22.927752 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.10-16.03.00:399][505]LogSlate: Took 4.559499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.10-16.03.26:369][505]LogAIModule: Creating AISystem for world World1
+[2018.02.10-16.11.23:571][505]LogSavePackage: Save=79436.87ms
+[2018.02.10-16.11.23:574][505]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/FlyingExampleMap7098731B41DA6D8BA068C48D665285E9.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/FlyingCPP/Maps/FlyingExampleMap.umap'
+[2018.02.10-16.11.29:483][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/FlyingCPP/Maps/FlyingExampleMap.umap
+[2018.02.10-16.11.36:932][505]LogFileHelpers: Saving map 'FlyingExampleMap' took 248.754
+[2018.02.10-16.11.40:910][506]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2018.02.10-16.12.12:850][506]Job has failed! Job is closed while Tasks are still PENDING
+[2018.02.10-16.12.12:962][506]DumpUnbuiltLightIteractions
+[2018.02.10-16.12.12:962][506]Lights with unbuilt interactions: 1
+[2018.02.10-16.12.12:962][506]    Light LightSource
+[2018.02.10-16.12.12:962][506]
+[2018.02.10-16.12.12:962][506]Primitives with unbuilt interactions: 161
+[2018.02.10-16.12.12:962][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_99.StaticMeshComponent0
+[2018.02.10-16.12.12:963][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_98.StaticMeshComponent0
+[2018.02.10-16.12.12:963][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_97.StaticMeshComponent0
+[2018.02.10-16.12.12:963][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_96.StaticMeshComponent0
+[2018.02.10-16.12.12:963][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_94.StaticMeshComponent0
+[2018.02.10-16.12.12:963][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_93.StaticMeshComponent0
+[2018.02.10-16.12.12:963][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_92.StaticMeshComponent0
+[2018.02.10-16.12.12:963][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_91.StaticMeshComponent0
+[2018.02.10-16.12.12:963][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_90.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_9.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_89.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_88.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_87.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_86.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_85.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_84.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_83.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_82.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_81.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_80.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_8.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_79.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_78.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_77.StaticMeshComponent0
+[2018.02.10-16.12.12:964][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_76.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_75.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_74.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_73.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_72.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_71.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_70.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_7.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_69.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_68.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_67.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_66.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_65.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_64.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_63.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_62.StaticMeshComponent0
+[2018.02.10-16.12.12:965][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_61.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_60.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_6.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_57.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_56.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_55.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_54.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_53.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_52.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_51.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_50.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_49.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_48.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_47.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_45.StaticMeshComponent0
+[2018.02.10-16.12.12:966][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_4.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_31.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_284.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_283.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_282.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_269.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_268.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_267.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_266.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_26.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_257.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_256.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_247.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_246.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_245.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_244.StaticMeshComponent0
+[2018.02.10-16.12.12:967][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_243.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_234.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_233.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_232.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_231.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_218.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_217.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_212.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_211.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_210.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_209.StaticMeshComponent0
+[2018.02.10-16.12.12:968][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_200.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_199.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_198.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_197.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_196.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_187.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_186.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_185.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_176.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_175.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_174.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_173.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_160.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_159.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_158.StaticMeshComponent0
+[2018.02.10-16.12.12:969][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_157.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_156.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_155.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_154.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_153.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_152.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_151.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_150.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_149.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_148.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_147.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_146.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_145.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_144.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_143.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_142.StaticMeshComponent0
+[2018.02.10-16.12.12:970][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_141.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_140.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_139.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_138.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_137.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_136.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_135.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_134.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_133.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_132.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_131.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_130.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_13.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_129.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_128.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_127.StaticMeshComponent0
+[2018.02.10-16.12.12:971][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_126.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_125.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_124.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_123.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_122.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_121.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_120.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_119.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_117.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_116.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_115.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_114.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_113.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_112.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_111.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_110.StaticMeshComponent0
+[2018.02.10-16.12.12:972][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_109.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_108.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_106.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_105.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_104.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_103.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_102.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_101.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_100.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.TemplateCube_Rounded_10.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.Ground_6.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.Ground_5.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.Ground_4.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.Ground.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.Ground_2.StaticMeshComponent0
+[2018.02.10-16.12.12:973][506]    Primitive StaticMeshComponent /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.Ground_3.StaticMeshComponent0
+[2018.02.10-16.12.14:539][507]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.10-16.12.14:540][507]MapCheck: New page: FlyingExampleMap - Feb 10, 2018, 6:12:14 PM
+[2018.02.10-16.12.14:663][507]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.02.10-16.12.15:225][507]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 685.203ms to complete.
+[2018.02.10-16.12.30:488][950]LogSavePackage: Save=943.90ms
+[2018.02.10-16.12.30:488][950]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/FlyingExampleMap6D994B844EDF73D9992E4EBC93551D42.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/FlyingCPP/Maps/FlyingExampleMap.umap'
+[2018.02.10-16.12.30:496][950]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/FlyingCPP/Maps/FlyingExampleMap.umap
+[2018.02.10-16.12.30:620][950]LogFileHelpers: Saving map 'FlyingExampleMap' took 1.435
+[2018.02.10-16.12.31:028][950]Cmd: MAP LOAD FILE="../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.10-16.12.31:031][950]LightingResults: New page: Lighting Build
+[2018.02.10-16.12.31:107][950]LoadErrors: New page: Loading map: World1.umap
+[2018.02.10-16.12.31:349][950]MapCheck: New page: Map Check
+[2018.02.10-16.12.31:349][950]LightingResults: New page: Lighting Build
+[2018.02.10-16.12.32:510][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.10-16.12.32:869][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.10-16.12.33:130][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 260.589ms to complete.
+[2018.02.10-16.12.33:131][950]LogFileHelpers: Loading map 'World1' took 2.510
+[2018.02.10-16.13.18:047][592]LogActorFactory: Actor Factory created Cube
+[2018.02.10-16.13.18:322][592]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.02.10-16.13.19:467][592]LogActorFactory: Actor Factory created Cube
+[2018.02.10-16.17.15:416][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.10-16.17.15:455][556]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2018.02.10-16.17.22:466][330]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.10-16.19.02:084][651]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.02.10-16.19.02:161][652]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.19.32:003][ 22]LogSlate: Took 0.101927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.10-16.20.32:086][ 49]MapCheck: New page: Map Check
+[2018.02.10-16.20.32:097][ 49]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.10-16.20.32:097][ 49]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.10-16.20.32:265][ 49]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2018.02.10-16.20.32:281][ 49]LightingResults: New page: Lighting Build - Feb 10, 2018, 6:20:32 PM
+[2018.02.10-16.20.32:664][ 49]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.10-16.20.32:798][ 49]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.10-16.20.32:798][ 49]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.10-16.20.32:801][ 49]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.10-16.20.32:801][ 49]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8600
+[2018.02.10-16.20.37:554][ 49]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.10-16.20.37:554][ 49]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.10-16.20.37:554][ 49]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.10-16.20.37:554][ 49]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.10-16.20.37:554][ 49]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.10-16.20.37:554][ 49]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.10-16.20.38:075][ 49]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.10-16.20.38:075][ 49]MapCheck: New page: World1 - Feb 10, 2018, 6:20:38 PM
+[2018.02.10-16.20.38:263][ 49]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 188.264ms to complete.
+[2018.02.10-16.20.38:285][ 49]LogEditorBuildUtils: Build time 0:06
+[2018.02.10-16.20.54:101][842]Job is a success!
+[2018.02.10-16.20.54:335][844]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.075s
+[2018.02.10-16.20.54:336][844]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.10-16.20.54:336][844]LogVolumetricLightmapImport:      BrickData 1065x5x5 = 0.7Mb
+[2018.02.10-16.20.54:336][844]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.10-16.20.54:336][844]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2018.02.10-16.20.54:336][844]LogVolumetricLightmapImport:          1: 7.5% covering 25.0% of volume
+[2018.02.10-16.20.54:336][844]LogVolumetricLightmapImport:          2: 92.0% covering 4.8% of volume
+[2018.02.10-16.20.55:227][844]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.02.10-16.20.55:228][844]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.02.10-16.20.55:565][844]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2018.02.10-16.20.55:722][844]Lightmass on DESKTOP-L0CSFJP: 8.60 sec total, 2.98 sec importing, 19 ms setup, 850 ms photons, 4.64 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 32.3 sec total, 5.32 sec processing.
+[2018.02.10-16.20.56:093][844]LogStaticLightingSystem: Illumination: 23.6 sec (715 ms encoding lightmaps, 328 ms encoding shadowmaps)
+[2018.02.10-16.20.56:093][844]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2018.02.10-16.20.56:093][844]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 1 textures
+[2018.02.10-16.20.56:582][844]DumpUnbuiltLightIteractions
+[2018.02.10-16.20.56:582][844]Lights with unbuilt interactions: 0
+[2018.02.10-16.20.56:582][844]
+[2018.02.10-16.20.56:582][844]Primitives with unbuilt interactions: 0
+[2018.02.10-16.20.56:600][845]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.10-16.20.56:600][845]MapCheck: New page: World1 - Feb 10, 2018, 6:20:56 PM
+[2018.02.10-16.20.56:740][845]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 140.308ms to complete.
+[2018.02.10-16.21.56:702][800]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2018.02.10-16.22.27:239][903]LogSlate: Took 0.000795 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.10-16.22.36:895][319]LogSavePackage: Save=29.62ms
+[2018.02.10-16.22.36:896][319]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_Auto114FDC8394C146BE15DD6FDA29A99B7EC.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto1.umap'
+[2018.02.10-16.22.36:899][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto1.umap
+[2018.02.10-16.22.36:904][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/AirSim/Blueprints/World1' took 0.405
+[2018.02.10-16.22.36:904][319]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
+[2018.02.10-16.22.37:237][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/AirSim/Blueprints/World1_BuiltData] ([1] browsable assets)...
+[2018.02.10-16.22.37:237][319]OBJ SavePackage: Finished generating thumbnails for package [/AirSim/Blueprints/World1_BuiltData]
+[2018.02.10-16.22.39:266][319]LogSavePackage: Save=2014.68ms
+[2018.02.10-16.22.39:266][319]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_BuiltData_Auto10AB8ADBD43BA41EBE6A105A1F99B215D.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_BuiltData_Auto1.uasset'
+[2018.02.10-16.22.39:269][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_BuiltData_Auto1.uasset
+[2018.02.10-16.22.39:270][319]LogFileHelpers: Auto-saving content packages took 2.363
+[2018.02.10-16.25.06:206][325]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.02.10-16.25.06:295][329]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.26.43:779][166]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.26.43:861][170]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (DirectionalLight)
+[2018.02.10-16.26.44:652][216]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.02.10-16.26.44:717][219]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.26.44:971][233]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.28.44:713][197]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.28.44:780][200]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (DirectionalLight)
+[2018.02.10-16.28.45:072][215]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.02.10-16.28.45:357][231]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.30.31:918][594]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.30.31:967][596]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (DirectionalLight)
+[2018.02.10-16.30.32:881][648]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.31.34:278][316]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.31.34:362][320]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (DirectionalLight)
+[2018.02.10-16.33.03:990][683]LogSavePackage: Save=50.85ms
+[2018.02.10-16.33.03:990][683]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_Auto2563FE9A9496F1561818925866464F1F8.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto2.umap'
+[2018.02.10-16.33.03:995][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto2.umap
+[2018.02.10-16.33.04:001][683]LogFileHelpers: Editor autosave (incl. sublevels) for '/AirSim/Blueprints/World1' took 0.153
+[2018.02.10-16.33.04:002][683]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.153
+[2018.02.10-16.34.08:804][554]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.10-16.34.24:270][464]LogEditorViewport: Clicking Background
+[2018.02.10-16.35.49:455][549]Cmd: EDCALLBACK SURFPROPS
+[2018.02.10-16.37.00:538][751]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.02.10-16.37.00:609][754]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.37.01:420][801]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.02.10-16.37.01:489][804]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (DirectionalLight)
+[2018.02.10-16.40.53:883][669]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.02.10-16.42.28:311][297]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.02.10-16.42.28:708][313]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.02.10-16.42.32:280][523]Cmd: DELETE
+[2018.02.10-16.42.32:280][523]Cmd: ACTOR DELETE
+[2018.02.10-16.42.32:342][523]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.02.10-16.42.32:379][523]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.02.10-16.42.52:605][716]LogEditorViewport: Clicking Background
+[2018.02.10-16.42.53:197][750]LogEditorViewport: Clicking Background
+[2018.02.10-16.42.53:729][781]LogEditorViewport: Clicking Background
+[2018.02.10-16.42.54:049][800]LogEditorViewport: Clicking Background
+[2018.02.10-16.43.31:239][ 10]LogEditorViewport: Clicking Background
+[2018.02.10-16.43.32:720][ 88]LogSavePackage: Save=97.63ms
+[2018.02.10-16.43.32:720][ 88]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_Auto3D3F276A045BBD36DC91169AFC9AA101F.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto3.umap'
+[2018.02.10-16.43.32:723][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto3.umap
+[2018.02.10-16.43.32:726][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/AirSim/Blueprints/World1' took 0.128
+[2018.02.10-16.43.32:727][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.128
+[2018.02.10-16.43.52:282][242]MapCheck: New page: Map Check
+[2018.02.10-16.43.52:294][242]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.10-16.43.52:294][242]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.10-16.43.52:437][242]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.02.10-16.43.52:451][242]LightingResults: New page: Lighting Build - Feb 10, 2018, 6:43:52 PM
+[2018.02.10-16.43.52:464][242]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.10-16.43.52:471][242]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.10-16.43.52:471][242]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.10-16.43.52:473][242]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.10-16.43.52:473][242]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8600
+[2018.02.10-16.43.57:077][242]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.10-16.43.57:077][242]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.10-16.43.57:077][242]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.10-16.43.57:077][242]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.10-16.43.57:078][242]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.10-16.43.57:078][242]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.10-16.43.57:202][242]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.10-16.43.57:202][242]MapCheck: New page: World1 - Feb 10, 2018, 6:43:57 PM
+[2018.02.10-16.43.58:495][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,292.45ms to complete.
+[2018.02.10-16.43.58:520][242]LogEditorBuildUtils: Build time 0:06
+[2018.02.10-16.44.05:259][561]Job is a success!
+[2018.02.10-16.44.05:326][562]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2018.02.10-16.44.05:326][562]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.10-16.44.05:326][562]LogVolumetricLightmapImport:      BrickData 150x5x5 = 0.1Mb
+[2018.02.10-16.44.05:326][562]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.10-16.44.05:326][562]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2018.02.10-16.44.05:326][562]LogVolumetricLightmapImport:          1: 53.3% covering 25.0% of volume
+[2018.02.10-16.44.05:326][562]LogVolumetricLightmapImport:          2: 43.3% covering 0.3% of volume
+[2018.02.10-16.44.05:589][562]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.02.10-16.44.05:589][562]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.02.10-16.44.05:743][562]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X512)
+[2018.02.10-16.44.05:778][562]Lightmass on DESKTOP-L0CSFJP: 5.02 sec total, 245 ms importing, 61 ms setup, 1.10 sec photons, 3.40 sec processing, 0 ms extra exporting [16/16 mappings]. Threads: 23.6 sec total, 5.16 sec processing.
+[2018.02.10-16.44.05:821][562]LogStaticLightingSystem: Illumination: 13.3 sec (190 ms encoding lightmaps, 161 ms encoding shadowmaps)
+[2018.02.10-16.44.05:821][562]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2018.02.10-16.44.05:821][562]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 1 textures
+[2018.02.10-16.44.06:089][562]DumpUnbuiltLightIteractions
+[2018.02.10-16.44.06:089][562]Lights with unbuilt interactions: 0
+[2018.02.10-16.44.06:089][562]
+[2018.02.10-16.44.06:089][562]Primitives with unbuilt interactions: 0
+[2018.02.10-16.44.06:094][563]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.10-16.44.06:094][563]MapCheck: New page: World1 - Feb 10, 2018, 6:44:06 PM
+[2018.02.10-16.44.06:210][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.624ms to complete.
+[2018.02.10-16.45.11:456][408]LogSavePackage: Save=43.75ms
+[2018.02.10-16.45.11:457][408]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1CD1F3D394F3DFFF1F2C2BC9F35958C8E.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1.umap'
+[2018.02.10-16.45.11:467][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1.umap
+[2018.02.10-16.45.11:548][408]LogSavePackage: Save=46.16ms
+[2018.02.10-16.45.11:548][408]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_BuiltDataFE1BD7344F9AB381964D8C978EA3124A.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1_BuiltData.uasset'
+[2018.02.10-16.45.11:555][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1_BuiltData.uasset
+[2018.02.10-17.51.00:457][ 48]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.10-17.51.20:848][201]LogEditorViewport: Clicking Background
+[2018.02.10-17.51.43:132][520]Cmd: DELETE
+[2018.02.10-17.51.43:132][520]Cmd: ACTOR DELETE
+[2018.02.10-17.51.43:204][520]LogEditorActor: Deleted Actor: Brush
+[2018.02.10-17.51.43:450][520]LogEditorActor: Deleted 1 Actors (0.318 secs)
+[2018.02.10-17.51.49:967][884]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.10-17.52.20:791][690]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.10-17.52.40:778][827]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2018.02.10-17.55.21:689][332]LogSavePackage: Save=213.40ms
+[2018.02.10-17.55.21:689][332]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_Auto4EAA6F5E448E8CDE9778823BA6246FE5F.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto4.umap'
+[2018.02.10-17.55.21:696][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto4.umap
+[2018.02.10-17.55.21:708][332]LogFileHelpers: Editor autosave (incl. sublevels) for '/AirSim/Blueprints/World1' took 0.421
+[2018.02.10-17.55.21:708][332]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2018.02.10-17.58.45:239][280]LogEditorActor: Deleted Actor: Brush
+[2018.02.10-17.58.45:400][280]LogEditorActor: Deleted 1 Actors (0.174 secs)
+[2018.02.10-17.58.52:691][707]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.10-17.58.53:698][758]Cmd: DELETE
+[2018.02.10-17.58.53:698][758]Cmd: ACTOR DELETE
+[2018.02.10-17.58.53:703][758]LogEditorActor: Deleted Actor: Brush
+[2018.02.10-17.58.53:746][758]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.02.10-17.59.17:352][155]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.10-17.59.19:542][276]LogEditorViewport: Clicking Background
+[2018.02.10-17.59.35:386][204]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2018.02.10-17.59.43:358][657]LogEditorViewport: Clicking Background
+[2018.02.10-18.00.44:637][323]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2018.02.10-18.00.45:590][375]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2018.02.10-18.00.46:573][434]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2018.02.10-18.00.52:050][760]LogEditorViewport: Clicking Background
+[2018.02.10-18.01.09:143][760]LogEditorViewport: Clicking Background
+[2018.02.10-18.01.22:785][536]LogEditorViewport: Clicking Background
+[2018.02.10-18.02.24:566][221]LogEditorViewport: Clicking Background
+[2018.02.10-18.05.23:450][787]LogSavePackage: Save=309.58ms
+[2018.02.10-18.05.23:450][787]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_Auto54A346D7D4F3DA47590387D82F7827443.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto5.umap'
+[2018.02.10-18.05.23:453][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto5.umap
+[2018.02.10-18.05.23:457][787]LogFileHelpers: Editor autosave (incl. sublevels) for '/AirSim/Blueprints/World1' took 0.372
+[2018.02.10-18.05.23:457][787]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.372
+[2018.02.10-18.07.23:074][757]Cmd: DELETE
+[2018.02.10-18.07.23:074][757]Cmd: ACTOR DELETE
+[2018.02.10-18.07.23:084][757]LogEditorActor: Deleted Actor: Pawn
+[2018.02.10-18.07.23:109][757]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.02.10-18.07.25:103][877]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.10-18.07.46:048][120]MapCheck: New page: Map Check
+[2018.02.10-18.07.46:061][120]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.10-18.07.46:064][120]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.10-18.07.46:214][120]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2018.02.10-18.07.46:227][120]LightingResults: New page: Lighting Build - Feb 10, 2018, 8:07:46 PM
+[2018.02.10-18.07.46:529][120]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.10-18.07.46:628][120]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.10-18.07.46:834][120]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.10-18.07.46:849][120]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.10-18.07.46:849][120]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8600
+[2018.02.10-18.07.51:488][120]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.10-18.07.51:489][120]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.10-18.07.51:489][120]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.10-18.07.51:489][120]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.10-18.07.51:489][120]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.10-18.07.51:489][120]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.10-18.07.51:715][120]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.10-18.07.51:715][120]MapCheck: New page: World1 - Feb 10, 2018, 8:07:51 PM
+[2018.02.10-18.08.04:464][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 12,748.233ms to complete.
+[2018.02.10-18.08.04:489][120]LogEditorBuildUtils: Build time 0:18
+[2018.02.10-18.08.17:571][701]Job is a success!
+[2018.02.10-18.08.20:420][702]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.057s
+[2018.02.10-18.08.20:420][702]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.10-18.08.20:420][702]LogVolumetricLightmapImport:      BrickData 945x5x5 = 0.7Mb
+[2018.02.10-18.08.20:420][702]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.10-18.08.20:420][702]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2018.02.10-18.08.20:420][702]LogVolumetricLightmapImport:          1: 8.5% covering 25.0% of volume
+[2018.02.10-18.08.20:420][702]LogVolumetricLightmapImport:          2: 91.0% covering 4.2% of volume
+[2018.02.10-18.08.22:687][702]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.02.10-18.08.22:687][702]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.02.10-18.08.22:688][702]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.02.10-18.08.23:644][702]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2018.02.10-18.08.24:678][702]Lightmass on DESKTOP-L0CSFJP: 13.2 sec total, 2.11 sec importing, 226 ms setup, 1.22 sec photons, 8.73 sec processing, 0 ms extra exporting [43/43 mappings]. Threads: 1:00 min total, 4.61 sec processing.
+[2018.02.10-18.08.24:691][702]LogStaticLightingSystem: Illumination: 38.4 sec (2.17 sec encoding lightmaps, 953 ms encoding shadowmaps)
+[2018.02.10-18.08.24:691][702]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 2 textures
+[2018.02.10-18.08.24:691][702]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 1 textures
+[2018.02.10-18.08.25:514][702]DumpUnbuiltLightIteractions
+[2018.02.10-18.08.25:514][702]Lights with unbuilt interactions: 0
+[2018.02.10-18.08.25:515][702]
+[2018.02.10-18.08.25:515][702]Primitives with unbuilt interactions: 0
+[2018.02.10-18.08.25:543][703]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.10-18.08.25:543][703]MapCheck: New page: World1 - Feb 10, 2018, 8:08:25 PM
+[2018.02.10-18.08.25:671][703]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127.075ms to complete.
+[2018.02.10-18.09.10:925][381]LogEditorViewport: Clicking on Actor (LMB): BP_FlyingPawn_C (BP_FlyingPawn)
+[2018.02.10-18.13.03:326][336]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0662 seconds. Added 1 classes and 0 folders.
+[2018.02.10-18.13.03:457][336]LogMaterial: Missing cached shader map for material test, compiling. 
+[2018.02.10-18.13.06:758][336]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.02.10-18.13.09:679][336]LogMaterial: Missing cached shader map for material test, compiling. 
+[2018.02.10-18.13.10:115][336]LogSlate: Took 0.082116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.10-18.13.12:319][341]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.02.10-18.13.12:320][341]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.02.10-18.13.12:320][341]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.10-18.13.12:320][341]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.10-18.15.32:048][381]LogSavePackage: Save=104.79ms
+[2018.02.10-18.15.32:048][381]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_Auto6EC1446EA4BF9AD2D2C433B9B5C2E71FF.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto6.umap'
+[2018.02.10-18.15.32:065][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_Auto6.umap
+[2018.02.10-18.15.32:070][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/AirSim/Blueprints/World1' took 0.245
+[2018.02.10-18.15.32:070][381]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.245
+[2018.02.10-18.15.32:074][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/AirSim/Blueprints/World1_BuiltData] ([1] browsable assets)...
+[2018.02.10-18.15.32:074][381]OBJ SavePackage: Finished generating thumbnails for package [/AirSim/Blueprints/World1_BuiltData]
+[2018.02.10-18.15.32:222][381]LogSavePackage: Save=47.34ms
+[2018.02.10-18.15.32:222][381]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_BuiltData_Auto6C591D8F845F368F2769D1D85FC7DE18D.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_BuiltData_Auto6.uasset'
+[2018.02.10-18.15.32:230][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Autosaves/AirSim/Blueprints/World1_BuiltData_Auto6.uasset
+[2018.02.10-18.15.32:230][381]LogFileHelpers: Auto-saving content packages took 0.159
+[2018.02.10-18.49.54:440][715]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0423 seconds. Added 116 classes and 0 folders.
+[2018.02.10-18.50.48:005][645]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.10-18.50.48:662][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.10-18.50.48:751][645]PIE: New page: PIE session: World1 (Feb 10, 2018, 8:50:48 PM)
+[2018.02.10-18.50.48:758][645]LogPlayLevel: Creating play world package: /AirSim/Blueprints/UEDPIE_0_World1
+[2018.02.10-18.50.48:900][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142476s)
+[2018.02.10-18.50.48:902][645]LogAIModule: Creating AISystem for world World1
+[2018.02.10-18.50.48:959][645]LogPlayLevel: PIE: World Init took: (0.057978s)
+[2018.02.10-18.50.48:974][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /AirSim/Blueprints/World1.World1 to /AirSim/Blueprints/UEDPIE_0_World1.World1 (0.215855s)
+[2018.02.10-18.50.49:156][645]LogInit: XAudio2 using 'Haut-parleurs +SSE3 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.10-18.50.49:319][645]LogInit: FAudioDevice initialized.
+[2018.02.10-18.50.49:446][645]LogLinker: Warning: Can't find file '/Script/Blocks'
+[2018.02.10-18.50.49:446][645]LogLinker: Warning: Can't find file '/Script/Blocks'
+[2018.02.10-18.50.49:458][645]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/Blocks.BlocksGameMode'
+[2018.02.10-18.50.49:476][645]LogLoad: Game class is 'GameModeBase'
+[2018.02.10-18.50.49:659][645]LogWorld: Bringing World /AirSim/Blueprints/UEDPIE_0_World1.World1 up for play (max tick rate 60) at 2018.02.10-19.50.49
+[2018.02.10-18.50.49:861][645]LogWorld: Bringing up level for play took: 0.218262
+[2018.02.10-18.50.50:172][645]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0034 seconds. Added 11 classes and 0 folders.
+[2018.02.10-18.50.50:226][645]PIE: Play in editor start time for /AirSim/Blueprints/UEDPIE_0_World1 1.917
+[2018.02.10-18.56.23:424][403]LogSavePackage: Save=73.67ms
+[2018.02.10-18.56.23:424][403]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1685888DE4CCCE174FDF9D19D49B0CBA6.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1.umap'
+[2018.02.10-18.56.23:437][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1.umap
+[2018.02.10-18.56.23:476][403]LogFileHelpers: Saving map 'World1' took 0.408
+[2018.02.10-18.56.23:564][403]LogSavePackage: Save=73.47ms
+[2018.02.10-18.56.23:565][403]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/World1_BuiltData4351011B4AD6533990C2CBA3C382C8FD.tmp' to '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1_BuiltData.uasset'
+[2018.02.10-18.56.23:641][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/Blueprints/World1_BuiltData.uasset
+[2018.02.10-18.56.26:288][404]Cmd: QUIT_EDITOR
+[2018.02.10-18.56.27:861][404]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.10-18.56.28:569][404]LogExit: Preparing to exit.
+[2018.02.10-18.57.00:206][404]LogDirectoryWatcher: A directory notification for 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/' was aborted.
+[2018.02.10-18.57.11:253][404]LogExit: Editor shut down
+[2018.02.10-18.57.13:287][404]LogExit: Transaction tracking system shut down
+[2018.02.10-18.57.21:698][404]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.10-18.57.21:699][404]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/' was aborted.
+[2018.02.10-18.57.21:699][404]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.10-18.57.21:699][404]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.10-18.57.21:699][404]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.10-18.57.21:699][404]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.10-18.57.21:700][404]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.10-18.57.21:700][404]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Content/' was aborted.
+[2018.02.10-18.57.52:250][404]LogExit: Object subsystem successfully closed.
+[2018.02.10-18.57.56:238][404]LogD3D11RHI: Shutdown
+[2018.02.10-18.57.56:296][404]LogD3D11RHI: CleanupD3DDevice
+[2018.02.10-18.57.56:880][404]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.10-18.58.02:385][404]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (560)
+[2018.02.10-18.58.02:419][404]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2018.02.10-18.58.02:419][404]LogModuleManager: Shutting down and abandoning module MaterialEditor (556)
+[2018.02.10-18.58.02:419][404]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2018.02.10-18.58.02:435][404]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.02.10-18.58.02:435][404]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.02.10-18.58.02:460][404]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.10-18.58.02:460][404]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.10-18.58.02:550][404]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.10-18.58.04:192][404]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.10-18.58.04:192][404]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.10-18.58.04:192][404]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.10-18.58.04:307][404]LogDirectoryWatcher: A directory notification for 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/Collections/' was aborted.
+[2018.02.10-18.58.04:307][404]LogDirectoryWatcher: A directory notification for 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Content/Developers/Alex/Collections/' was aborted.
+[2018.02.10-18.58.04:307][404]LogDirectoryWatcher: A directory notification for 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Saved/Collections/' was aborted.
+[2018.02.10-18.58.04:308][404]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.02.10-18.58.04:387][404]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.02.10-18.58.04:387][404]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.02.10-18.58.04:950][404]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.02.10-18.58.05:020][404]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.02.10-18.58.05:021][404]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.02.10-18.58.05:021][404]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.02.10-18.58.05:039][404]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.02.10-18.58.05:039][404]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.02.10-18.58.05:039][404]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.02.10-18.58.05:040][404]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.02.10-18.58.05:126][404]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.02.10-18.58.05:154][404]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.02.10-18.58.05:248][404]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.02.10-18.58.05:297][404]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.02.10-18.58.05:657][404]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.02.10-18.58.05:657][404]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.02.10-18.58.05:657][404]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.02.10-18.58.05:657][404]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.02.10-18.58.05:657][404]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.02.10-18.58.05:657][404]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.02.10-18.58.05:695][404]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.02.10-18.58.05:695][404]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.02.10-18.58.05:695][404]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.02.10-18.58.05:695][404]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.02.10-18.58.05:695][404]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.02.10-18.58.05:723][404]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.02.10-18.58.05:830][404]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.02.10-18.58.05:960][404]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.02.10-18.58.05:984][404]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.02.10-18.58.05:984][404]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.02.10-18.58.05:985][404]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.02.10-18.58.05:985][404]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.02.10-18.58.06:210][404]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.02.10-18.58.06:552][404]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.02.10-18.58.06:978][404]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.02.10-18.58.07:228][404]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.02.10-18.58.07:321][404]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.02.10-18.58.07:448][404]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.02.10-18.58.07:448][404]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.02.10-18.58.07:448][404]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.02.10-18.58.07:688][404]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.02.10-18.58.07:723][404]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.02.10-18.58.07:723][404]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.02.10-18.58.07:723][404]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.02.10-18.58.07:821][404]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.02.10-18.58.07:891][404]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.02.10-18.58.07:957][404]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.02.10-18.58.08:157][404]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.02.10-18.58.08:226][404]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.02.10-18.58.08:762][404]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.02.10-18.58.08:809][404]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.02.10-18.58.08:809][404]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.02.10-18.58.08:938][404]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.02.10-18.58.08:953][404]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.02.10-18.58.09:066][404]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.02.10-18.58.09:113][404]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.02.10-18.58.09:179][404]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.02.10-18.58.09:521][404]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.02.10-18.58.09:692][404]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.02.10-18.58.09:785][404]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.02.10-18.58.09:949][404]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.02.10-18.58.09:978][404]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.02.10-18.58.10:024][404]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.02.10-18.58.10:097][404]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.02.10-18.58.10:242][404]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.02.10-18.58.10:373][404]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.02.10-18.58.10:449][404]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.02.10-18.58.10:617][404]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.02.10-18.58.10:617][404]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.02.10-18.58.10:655][404]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.02.10-18.58.10:655][404]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.02.10-18.58.10:780][404]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.02.10-18.58.10:780][404]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.02.10-18.58.10:780][404]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.02.10-18.58.10:861][404]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.02.10-18.58.10:882][404]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.02.10-18.58.10:882][404]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.02.10-18.58.10:905][404]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.02.10-18.58.10:938][404]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.02.10-18.58.10:994][404]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.02.10-18.58.11:000][404]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.02.10-18.58.11:000][404]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.02.10-18.58.11:008][404]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.02.10-18.58.11:008][404]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.02.10-18.58.11:079][404]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.02.10-18.58.11:079][404]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.02.10-18.58.11:079][404]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.02.10-18.58.11:079][404]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.02.10-18.58.11:079][404]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.02.10-18.58.11:079][404]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.02.10-18.58.11:105][404]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.02.10-18.58.11:105][404]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.02.10-18.58.11:122][404]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.02.10-18.58.11:357][404]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.02.10-18.58.11:407][404]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.02.10-18.58.11:407][404]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.02.10-18.58.11:434][404]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.02.10-18.58.11:471][404]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.02.10-18.58.11:515][404]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.02.10-18.58.11:515][404]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.02.10-18.58.11:515][404]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.02.10-18.58.11:526][404]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.02.10-18.58.11:526][404]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.02.10-18.58.11:526][404]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.02.10-18.58.11:526][404]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.02.10-18.58.11:547][404]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.02.10-18.58.11:547][404]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.02.10-18.58.11:547][404]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.02.10-18.58.11:547][404]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.02.10-18.58.11:559][404]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.02.10-18.58.11:559][404]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.02.10-18.58.11:579][404]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.02.10-18.58.11:579][404]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.02.10-18.58.11:579][404]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.02.10-18.58.11:717][404]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.02.10-18.58.11:895][404]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.02.10-18.58.11:896][404]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.02.10-18.58.11:908][404]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.02.10-18.58.11:908][404]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.02.10-18.58.11:960][404]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.02.10-18.58.12:030][404]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.02.10-18.58.12:067][404]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.02.10-18.58.12:103][404]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.02.10-18.58.12:103][404]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.02.10-18.58.12:103][404]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.02.10-18.58.12:103][404]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.02.10-18.58.12:167][404]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.02.10-18.58.12:203][404]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.02.10-18.58.12:409][404]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.02.10-18.58.12:434][404]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.02.10-18.58.12:434][404]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.02.10-18.58.12:448][404]LogDirectoryWatcher: A directory notification for 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Binaries/Win64' was aborted.
+[2018.02.10-18.58.12:448][404]LogDirectoryWatcher: A directory notification for 'C:/Users/Alex/Desktop/Cassiopée/stier-master/stier/Plugins/AirSim/Binaries/Win64' was aborted.
+[2018.02.10-18.58.12:513][404]LogModuleManager: Shutting down and abandoning module Blocks (272)
+[2018.02.10-18.58.12:544][404]LogModuleManager: Shutting down and abandoning module AirSim (270)
+[2018.02.10-18.58.12:544][404]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.10-18.58.12:546][404]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.10-18.58.12:546][404]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.10-18.58.12:546][404]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.10-18.58.12:546][404]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.10-18.58.12:546][404]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.10-18.58.12:546][404]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.10-18.58.12:589][404]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.10-18.58.12:725][404]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.10-18.58.12:847][404]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.10-18.58.12:947][404]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.10-18.58.12:965][404]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.10-18.58.12:965][404]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.10-18.58.13:008][404]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.10-18.58.13:008][404]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.10-18.58.13:072][404]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.10-18.58.13:072][404]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.10-18.58.13:098][404]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.10-18.58.13:149][404]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.10-18.58.13:179][404]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.10-18.58.13:179][404]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.10-18.58.13:179][404]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.10-18.58.13:180][404]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.10-18.58.13:189][404]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.10-18.58.13:189][404]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.10-18.58.13:196][404]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.10-18.58.13:196][404]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.10-18.58.13:196][404]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.10-18.58.13:281][404]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.10-18.58.13:314][404]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.10-18.58.13:314][404]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.10-18.58.13:373][404]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.10-18.58.13:389][404]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.10-18.58.13:456][404]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.10-18.58.13:564][404]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.10-18.58.13:628][404]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.10-18.58.13:706][404]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.10-18.58.13:794][404]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.10-18.58.13:794][404]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.10-18.58.13:902][404]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.10-18.58.13:902][404]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.10-18.58.13:926][404]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.10-18.58.13:926][404]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.10-18.58.13:926][404]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.10-18.58.13:926][404]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.10-18.58.13:926][404]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.10-18.58.13:926][404]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.10-18.58.13:926][404]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.10-18.58.13:934][404]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.10-18.58.14:108][404]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.10-18.58.14:108][404]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.10-18.58.14:175][404]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.10-18.58.14:189][404]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.10-18.58.14:190][404]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.10-18.58.14:516][404]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.10-18.58.14:531][404]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.10-18.58.14:551][404]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.10-18.58.14:580][404]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.10-18.58.14:699][404]LogDerivedDataCache: Shutdown
+[2018.02.10-18.58.14:699][404]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.10-18.58.14:751][404]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.10-18.58.14:794][404]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.10-18.58.14:863][404]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.10-18.58.14:941][404]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.10-18.58.14:977][404]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.10-18.58.15:076][404]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.10-18.58.15:077][404]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.10-18.58.15:077][404]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.10-18.58.15:077][404]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.10-18.58.15:147][404]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.10-18.58.15:148][404]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.10-18.58.15:148][404]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.10-18.58.15:148][404]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.10-18.58.15:165][404]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.10-18.58.15:204][404]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.10-18.58.15:204][404]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.10-18.58.15:235][404]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.10-18.58.15:235][404]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.10-18.58.15:236][404]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.10-18.58.15:236][404]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.10-18.58.15:236][404]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.10-18.58.15:255][404]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.10-18.58.15:255][404]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.10-18.58.15:268][404]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.10-18.58.15:269][404]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.10-18.58.15:269][404]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.10-18.58.15:269][404]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.10-18.58.15:269][404]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.10-18.58.15:269][404]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.10-18.58.15:269][404]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.10-18.58.15:269][404]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.10-18.58.15:269][404]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.10-18.58.15:305][404]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.10-18.58.15:305][404]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.10-18.58.15:334][404]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.10-18.58.15:351][404]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.10-18.58.15:389][404]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.10-18.58.15:389][404]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.10-18.58.15:389][404]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.10-18.58.15:389][404]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.10-18.58.15:564][404]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.10-18.58.15:592][404]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.10-18.58.15:592][404]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.10-18.58.15:597][404]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B724A0795-4D2E-1B3C-70DD-95867609ACBD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=1f3392004450f6de19eee28bed40251f%7C2f87d2225f97465a9a1770132c1076f1%7C75edfd14-ec4d-413d-aab5-8a0809d98fdc&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.10-18.58.15:712][404]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.10-18.58.15:725][404]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.10-18.58.15:734][404]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.10-18.58.15:784][404]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.10-18.58.15:806][404]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.10-18.58.15:807][404]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.10-18.58.15:807][404]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.10-18.58.15:807][404]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.10-18.58.15:925][404]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.10-18.58.15:945][404]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.10-18.58.15:945][404]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.10-18.58.15:961][404]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.10-18.58.15:961][404]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.10-18.58.15:961][404]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.10-18.58.15:961][404]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.10-18.58.15:961][404]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.10-18.58.15:961][404]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.10-18.58.15:961][404]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.10-18.58.15:976][404]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.10-18.58.16:163][404]LogExit: Exiting.
+[2018.02.10-18.58.16:884][404]Log file closed, 02/10/18 19:58:16
