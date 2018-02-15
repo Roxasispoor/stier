@@ -13796,3 +13796,317 @@ LogInit: Object subsystem initialized
 [2018.02.15-14.14.11:385][769]LogBlueprintUserMessages: [BP_FlyingPawn_1864] TemplateCube_Rounded_26
 [2018.02.15-14.14.11:386][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
 [2018.02.15-14.14.11:425][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.15-14.15.12:809][540]LogEditorViewport: Clicking on Actor (LMB): BP_FlyingPawn_C (BP_FlyingPawn2)
+[2018.02.15-14.15.14:490][638]Cmd: DELETE
+[2018.02.15-14.15.14:490][638]Cmd: ACTOR DELETE
+[2018.02.15-14.15.14:496][638]LogEditorActor: Deleted Actor: BP_FlyingPawn_C
+[2018.02.15-14.15.14:518][638]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.02.15-14.15.17:162][796]Cmd: DUPLICATE
+[2018.02.15-14.15.17:162][796]Cmd: ACTOR DUPLICATE
+[2018.02.15-14.15.17:171][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.15-14.15.21:247][ 40]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.15-14.15.22:053][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_5)
+[2018.02.15-14.15.22:844][107]LogEditorViewport: Clicking on Actor (LMB): BP_FlyingPawn_C (BP_FlyingPawn)
+[2018.02.15-14.15.23:839][164]Cmd: DELETE
+[2018.02.15-14.15.23:839][164]Cmd: ACTOR DELETE
+[2018.02.15-14.15.23:846][164]LogEditorActor: Deleted Actor: BP_FlyingPawn_C
+[2018.02.15-14.15.23:868][164]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.02.15-14.18.47:444][314]LogSavePackage: Save=402.11ms
+[2018.02.15-14.18.47:444][314]LogSavePackage: Moving 'C:/Users/4223/Documents/Unreal Projects/ESTIER/Blocks/Saved/FlyingExampleMap_Auto15FAF6B4146F127CFA6AA9AB6C8DE93BD.tmp' to 'C:/Users/4223/Documents/Unreal Projects/ESTIER/Blocks/Saved/Autosaves/Game/FlyingCPP/Maps/FlyingExampleMap_Auto1.umap'
+[2018.02.15-14.18.47:447][314]LogSavePackage: Display: Finished SavePackage C:/Users/4223/Documents/Unreal Projects/ESTIER/Blocks/Saved/Autosaves/Game/FlyingCPP/Maps/FlyingExampleMap_Auto1.umap
+[2018.02.15-14.18.47:455][314]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FlyingCPP/Maps/FlyingExampleMap' took 0.455
+[2018.02.15-14.18.47:456][314]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.455
+[2018.02.15-14.19.52:407][204]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.15-14.19.52:433][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.15-14.19.52:433][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.15-14.19.52:433][204]PIE: New page: PIE session: FlyingExampleMap (Feb 15, 2018, 4:19:52 PM)
+[2018.02.15-14.19.52:433][204]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.15-14.19.52:463][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029853s)
+[2018.02.15-14.19.52:464][204]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.15-14.19.52:465][204]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2018.02.15-14.19.52:465][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.031725s)
+[2018.02.15-14.19.52:489][204]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.15-14.19.52:501][204]LogInit: FAudioDevice initialized.
+[2018.02.15-14.19.52:532][204]LogLoad: Game class is 'AirSimGameMode'
+[2018.02.15-14.19.52:537][204]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2018.02.15-15.19.52
+[2018.02.15-14.19.52:538][204]LogWorld: Bringing up level for play took: 0.004787
+[2018.02.15-14.19.54:754][204]Cmd: r.CustomDepth 3
+[2018.02.15-14.19.54:754][204]r.CustomDepth = "3"
+[2018.02.15-14.19.54:755][204]LogActor: Warning: BP_CameraDirector_C /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap:PersistentLevel.BP_CameraDirector_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.02.15-14.19.54:774][204]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 2.466
+[2018.02.15-14.19.54:774][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.15-14.19.54:775][204]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:862][205]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:879][206]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:896][207]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:912][208]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:929][209]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:945][210]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:962][211]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:979][212]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.54:996][213]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:012][214]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:029][215]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:046][216]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:062][217]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:079][218]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:096][219]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:112][220]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:129][221]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:145][222]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:163][223]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:179][224]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:196][225]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:212][226]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:229][227]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:246][228]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:262][229]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:279][230]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:295][231]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:312][232]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:329][233]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:346][234]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:362][235]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:379][236]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:396][237]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:413][238]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:429][239]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:446][240]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:462][241]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:479][242]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:496][243]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:512][244]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:529][245]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:546][246]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:562][247]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:579][248]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:596][249]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:612][250]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:629][251]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:646][252]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:663][253]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:679][254]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:696][255]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:712][256]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:729][257]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:746][258]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:762][259]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:779][260]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:796][261]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:813][262]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:829][263]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:846][264]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:862][265]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:879][266]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:896][267]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:912][268]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:929][269]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:945][270]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:963][271]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:979][272]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.55:996][273]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:012][274]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:029][275]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:046][276]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:062][277]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:079][278]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:095][279]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:112][280]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:129][281]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:146][282]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:163][283]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:179][284]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:196][285]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:213][286]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:229][287]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:246][288]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:262][289]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:279][290]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:296][291]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:312][292]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:329][293]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:346][294]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:363][295]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:379][296]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:396][297]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:412][298]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:429][299]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:446][300]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:462][301]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:479][302]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:496][303]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:512][304]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:529][305]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:546][306]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:563][307]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:579][308]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:596][309]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:612][310]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:629][311]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:646][312]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:662][313]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:679][314]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:696][315]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:713][316]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:729][317]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:746][318]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_28
+[2018.02.15-14.19.56:763][319]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:779][320]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:796][321]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:812][322]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:829][323]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:846][324]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:862][325]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:879][326]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:895][327]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:913][328]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:929][329]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:946][330]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:963][331]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_22
+[2018.02.15-14.19.56:979][332]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_24
+[2018.02.15-14.19.56:996][333]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_24
+[2018.02.15-14.19.57:012][334]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_24
+[2018.02.15-14.19.57:029][335]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_24
+[2018.02.15-14.19.57:046][336]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_24
+[2018.02.15-14.19.57:062][337]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_24
+[2018.02.15-14.19.57:079][338]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_24
+[2018.02.15-14.19.57:096][339]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:113][340]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:129][341]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:146][342]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:163][343]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:179][344]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_131
+[2018.02.15-14.19.57:196][345]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_131
+[2018.02.15-14.19.57:212][346]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_131
+[2018.02.15-14.19.57:229][347]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_110
+[2018.02.15-14.19.57:246][348]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_110
+[2018.02.15-14.19.57:262][349]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_110
+[2018.02.15-14.19.57:279][350]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_110
+[2018.02.15-14.19.57:296][351]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_110
+[2018.02.15-14.19.57:313][352]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:329][353]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:346][354]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:362][355]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:379][356]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:396][357]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:412][358]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:429][359]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:446][360]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:462][361]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:479][362]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:496][363]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:513][364]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_12
+[2018.02.15-14.19.57:529][365]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_12
+[2018.02.15-14.19.57:546][366]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_10
+[2018.02.15-14.19.57:562][367]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_10
+[2018.02.15-14.19.57:579][368]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_10
+[2018.02.15-14.19.57:596][369]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_10
+[2018.02.15-14.19.57:612][370]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_10
+[2018.02.15-14.19.57:629][371]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_10
+[2018.02.15-14.19.57:645][372]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_10
+[2018.02.15-14.19.57:663][373]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_6
+[2018.02.15-14.19.57:679][374]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_6
+[2018.02.15-14.19.57:696][375]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_6
+[2018.02.15-14.19.57:712][376]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:729][377]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:746][378]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:762][379]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:779][380]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:796][381]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:812][382]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:829][383]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:846][384]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:863][385]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:879][386]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:896][387]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:913][388]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:929][389]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:946][390]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:962][391]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:979][392]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.57:996][393]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:012][394]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:029][395]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:047][396]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_4
+[2018.02.15-14.19.58:063][397]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_4
+[2018.02.15-14.19.58:079][398]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:096][399]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:113][400]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:129][401]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:146][402]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:162][403]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:179][404]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:196][405]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:213][406]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_16
+[2018.02.15-14.19.58:230][407]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_18
+[2018.02.15-14.19.58:246][408]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_18
+[2018.02.15-14.19.58:263][409]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:279][410]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:296][411]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:313][412]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:329][413]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:346][414]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:362][415]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:379][416]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:396][417]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:413][418]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:429][419]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:446][420]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:463][421]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:479][422]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_122
+[2018.02.15-14.19.58:496][423]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_118
+[2018.02.15-14.19.58:513][424]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_118
+[2018.02.15-14.19.58:529][425]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_118
+[2018.02.15-14.19.58:546][426]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_118
+[2018.02.15-14.19.58:563][427]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_118
+[2018.02.15-14.19.58:579][428]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_118
+[2018.02.15-14.19.58:596][429]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_118
+[2018.02.15-14.19.58:613][430]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_118
+[2018.02.15-14.19.58:629][431]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:646][432]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:663][433]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:679][434]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:696][435]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:712][436]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:729][437]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:746][438]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:762][439]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:779][440]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] TemplateCube_Rounded_126
+[2018.02.15-14.19.58:796][441]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:813][442]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:829][443]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:846][444]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:863][445]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:879][446]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:896][447]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:912][448]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:929][449]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:945][450]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:962][451]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:979][452]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.58:996][453]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:012][454]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:029][455]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:046][456]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:062][457]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:079][458]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:096][459]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:112][460]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:129][461]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:145][462]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:163][463]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:179][464]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:196][465]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:212][466]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:229][467]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:246][468]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:262][469]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:279][470]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:296][471]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:312][472]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:329][473]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:346][474]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:479][482]LogBlueprintUserMessages: [BP_FlyingPawn_C_0] 
+[2018.02.15-14.19.59:481][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.15-14.19.59:521][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.15-14.21.56:337][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_6)
