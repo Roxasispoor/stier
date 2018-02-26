@@ -1,0 +1,9 @@
+Faire tourner les pales
+Faire l'énergie et les inputs pour tirer
+Faire des armes complémentaires
+Faire un mode de jeu avec des team /ou des points
+Faire des objets en plus 
+bruit de piew piew
+Invincibilité du spotdodge
+Connection depuis le menu (find session, create session exec open + addresse)
+Faire des loopings
