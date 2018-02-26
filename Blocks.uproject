@@ -16,7 +16,7 @@
 	"Plugins": [
 		{
 			"Name": "AirSim",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
