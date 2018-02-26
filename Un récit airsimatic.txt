@@ -1,0 +1,7 @@
+-Airsim la plateforme 
+-Difficulté et bugs rencontrés
+-Le movement de pawn n'est pas répliqué automatiquement, celui de character movement ne permet pas d'utiliser des forces dessus
+-Character movement force l'utilisation d'une bull =>???
+-Fastfall était remis en place par le serveur=> tout changement de valeur de variable doit utiliser un event repliqué sur le serveur sur une variable répliquée pour que le client l'aie aussi, puis on appelle l'event server qui utilise le launchCharacter
+-Interpolation and rotation have to be relative
+-You can't use controller on another client because they don't exist
