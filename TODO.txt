@@ -1,9 +1,21 @@
-Faire tourner les pales
-Faire l'énergie et les inputs pour tirer
-Faire des armes complémentaires
-Faire un mode de jeu avec des team /ou des points
-Faire des objets en plus 
+Faire tourner les pales CHECK
+Faire l'énergie/munitions display Yannus
+Les inputs pour tirer: Stagiaire
+Faire des armes complémentaires: Stagiaire 
+Faire un mode de jeu avec des team /ou des points CHECK
+Faire des objets en plus(chnager la vitesse l'inertie, l'accélaration)
 bruit de piew piew
-Invincibilité du spotdodge
+Invincibilité du spotdodge CHECK
 Connection depuis le menu (find session, create session exec open + addresse)
 Faire des loopings
+Gérer le spawnkill
+Bonus de kill streak?
+Mettre des couleurs de drones
+Désactiver le tir ami
+Faire les barres de vie ennemie 
+Différentes maps au moins une bonne
+Map
+Différents Mode : solo,capture the node kills,temps,orbes,Bounty
+Rétrocaméra
+Collision avec décor?
+Viseur
