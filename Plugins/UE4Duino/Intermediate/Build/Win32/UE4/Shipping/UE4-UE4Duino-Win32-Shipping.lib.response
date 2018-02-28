@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x86
+/SUBSYSTEM:WINDOWS
+/LTCG
+"A:\Libraries\Documents\Smartool\Netflix\StrangerThings\Plugins\UE4Duino\Intermediate\Build\Win32\UE4\Shipping\UE4Duino\Module.UE4Duino.cpp.obj"
+"A:\Libraries\Documents\Smartool\Netflix\StrangerThings\Plugins\UE4Duino\Intermediate\Build\Win32\UE4\Shipping\UE4Duino\UE4Duino.generated.cpp.obj"
+/OUT:"A:\Libraries\Documents\Smartool\Netflix\StrangerThings\Plugins\UE4Duino\Binaries\Win32\UE4-UE4Duino-Win32-Shipping.lib"

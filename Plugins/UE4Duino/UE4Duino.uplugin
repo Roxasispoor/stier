@@ -1,0 +1,20 @@
+{
+	"FileVersion":		3,
+
+	"FriendlyName":		"UE4Duino",
+	"Version":			2,
+	"VersionName":		"2.2.1",
+	"CreatedBy":		"Rodrigo Villani",
+	"Description":		"Enables communication between UE4 and COM ports",
+	"Category":			"Input",
+	
+	"EnabledByDefault":	true,
+
+	"Modules": [
+		{
+			"Name":			"UE4Duino",
+			"Type":			"Runtime",
+			"LoadingPhase":	"PreDefault"
+		}
+	]
+}
